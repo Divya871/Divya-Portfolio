@@ -10,7 +10,7 @@ body {
 body::before {
   content: "";
   position: fixed;
-  background: #040404 url("../img/stevejobs.jpg") top right no-repeat;
+  background: #040404 url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVRYOIIH29foNFK1Eb4sEuCVzmcFPxCqwCBA&usqp=CAU") top right no-repeat;
   background-size: cover;
   left: 0;
   right: 0;
